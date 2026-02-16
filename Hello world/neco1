@@ -1,3 +1,0 @@
-while true:
-    try:
-        number1 = int(input("... : "))
